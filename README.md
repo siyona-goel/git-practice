@@ -3,3 +3,5 @@
 
 ### What's interesting about it:
 I found this article interesting because it looks at AI in software engineering from a perspective that I had not really considered before. Instead of focusing only on whether AI will replace developers, it discusses how AI could change what being a software developer actually means, i.e. a developer's identity. As AI takes over more of the coding itself, developers may spend more time giving instructions, reviewing AI-generated code, and making higher-level decisions. I find this interesting because coding is such a central part of how I currently think about software engineering, so it makes me wonder how the skills and responsibilities expected from software engineers might change as AI becomes more involved in the development process.
+
+- I (st6rgazing) agree! I do think it offers a new perspective I haven't really heard of before and I think it's really insightful
