@@ -15,3 +15,6 @@ making ML more interpretable, yours is about AI reshaping developer identity.
 Same underlying shift, really: as AI handles more of the "doing," the human
 role moves toward reviewing and judging rather than producing. Your framing
 of AI as "assistant, not replacement" feels true well beyond just coding.
+
+### Hello, I'm Hoor, commenting on this article
+This article raises an important point that I hadn't considered before. Rather than worrying about AI replacing developers entirely, it's more useful to think about how our roles will evolve. As AI handles more routine coding tasks, developers will likely focus more on problem-solving, code review, and architectural decisions. I'm curious to see how this shift will actually play out in the industry and how education will adapt to prepare future developers for this changing landscape.
